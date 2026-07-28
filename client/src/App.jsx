@@ -32,19 +32,17 @@ function App() {
 
   try {
     const response = await fetch(
-      "http://localhost:3000/api/generate-quiz",
-      {
-        method: "POST",
-
-        headers: {
-          "Content-Type": "application/json",
-        },
-
-        body: JSON.stringify({
-          notes: notes.trim(),
-        }),
-      }
-    );
+    `${import.meta.env.VITE_API_URL}/api/generate-quiz`,
+    {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        notes: notes.trim(),
+      }),
+    }
+   );
 
     const contentType =
        response.headers.get("content-type");
