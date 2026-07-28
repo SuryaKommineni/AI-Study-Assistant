@@ -148,9 +148,6 @@ Approximately **7.5 hours**
 
 ## Screenshots
 
-(Add screenshots here before submission.)
-## Screenshots
-
 ### Home Page
 
 ![Home Page](Preview/Home.png)
