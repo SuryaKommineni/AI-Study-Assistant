@@ -37,7 +37,7 @@ AI Study Assistant is a full-stack web application that transforms study notes o
 
 ### AI
 
-- Google Gemini API
+- Gemini API
 
 ---
 
