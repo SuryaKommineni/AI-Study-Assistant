@@ -225,15 +225,6 @@ calls itself to solve smaller versions of the same problem...
 
 ### Live Demo
 
-**Live Application:**
-`<ADD_YOUR_RENDER_OR_DEPLOYMENT_URL>`
-
-### Screenshots
-
-## Screenshots / Demo
-
-### Live Demo
-
 [View Live Demo](https://ai-study-assistant-five-mocha.vercel.app/)
 
 ### Application Preview
@@ -244,9 +235,9 @@ calls itself to solve smaller versions of the same problem...
 
 ![AI Study Assistant Chat](Preview/Loading.png)
 
-![AI Study Assistant Response](Preview/Correct Answer Feedback.png)
+![AI Study Assistant Response](Preview/Correct%20Answer%20Feedback.png)
 
-![AI Study Assistant Mobile View](Preview/Wrong Asnwer Feedback.png)
+![AI Study Assistant Mobile View](Preview/Wrong%20Asnwer%20Feedback.png)
 
 ![AI Study Assistant Chat](Preview/Error.png)
 
